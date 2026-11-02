@@ -135,3 +135,18 @@ h5 {
 .botoes-card a:nth-child(3) {
     background-color: #0ea5e9;
 }
+.botoes-cardo {
+    background-color: #38b85a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding:1px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition: transform 0.2s ease, opacity 0.3s ease;
+}
